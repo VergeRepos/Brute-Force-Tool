@@ -54,11 +54,11 @@ Tkinter library (usually included with Python)
 Quick Installation
 bash
 # Download the script
-wget https://github.com/VergeRepos/bruteforce-toolkit/raw/main/bruteforce_toolkit.py
+wget https://raw.githubusercontent.com/VergeRepos/Brute-Force-Tool/refs/heads/main/bruteforce_toolkit.py
 
 # Or clone the repository
-git clone https://github.com/VergeRepos/bruteforce-toolkit.git
-cd bruteforce-toolkit
+git clone https://github.com/VergeRepos/Brute-Force-Tool.git
+cd Brute-Force-Tool
 Running the Application
 bash
 # Run directly with Python
