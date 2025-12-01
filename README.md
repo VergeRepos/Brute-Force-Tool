@@ -470,3 +470,5 @@ Last Updated: December 2025
 Maintainer: VergeRepos
 Version: 1.0.0
 Status: Actively Maintained
+
+"Knowledge is power. Use this tool to build defenses, not break them."
