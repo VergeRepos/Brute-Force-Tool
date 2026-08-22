@@ -2,7 +2,7 @@
 
 [![GUI: Tkinter](https://img.shields.io/badge/GUI-Tkinter-blue)]
 [![Python: 3.6+](https://img.shields.io/badge/Python-3.6%2B-green)](https://python.org)
-[![Purpose: Educational](https://img.shields.io/badge/Purpose-Educational-red)
+![Purpose: Educational](https://img.shields.io/badge/Purpose-Educational-red)
 
 ## Project Overview
 
