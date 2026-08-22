@@ -1,7 +1,7 @@
 # BruteForce Toolkit - Educational Cybersecurity Tool
 
 [![GUI: Tkinter](https://shields.io)](https://python.org)
-(https://img.shields.io/badge/Python-3.6%2B-green)]
+[![Python: 3.6+](https://img.shields.io/badge/Python-3.6%2B-green)](https://python.org)
 [![Purpose: Educational](https://shields.io)](https://wikipedia.org)
 
 ## Project Overview
